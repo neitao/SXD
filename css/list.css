@@ -1,0 +1,163 @@
+.tou{
+    width: 7.5rem;
+    height: 0.88rem;
+    background: -webkit-linear-gradient(left, #ff3432,#ff7918);
+    background: linear-gradient(left, #ff3432,#ff7918);
+    font-size: 0.36rem;
+    color: #fff;
+    text-align: center;
+    line-height: 0.88rem;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+.shou{
+    width: 7.5rem;
+    height: 0.88rem;
+    background-color:#fff;
+    margin-top: 0.88rem;
+    box-sizing: border-box;
+    padding: 0 0.24rem;
+    line-height: 0.88rem;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.shou span{
+    font-size: 0.3rem;
+    color: #a3a3a3;
+}
+.shou .yi{
+    color:#ff5751 
+}
+.shou .gang{
+    width: 0.38rem;
+    height: 0.06rem;
+    background-color: #ff5751;
+    border-radius: 0.03rem;
+    position: absolute;
+    left: 0.34rem;
+    bottom: 0.14rem;
+}
+.cai{
+    width: 7.5rem;
+    height: 2.3rem;
+    background-color: #fff;
+    margin-top: 0.24rem;
+    
+}
+.cai .liang{
+    width: 7.02rem;
+    height: 2.3rem;
+    background-color: #fff;
+    margin: 0 auto;
+    box-shadow: 0 0 0.3rem 0.01rem rgba(251, 91, 33, 0.18);
+    position: relative;
+}
+.cai .liang img{
+    width: 3.12rem;
+    height: 1.94rem;
+    position: absolute;
+    top: 0.18rem;
+    left: 0.22rem;
+}
+.cai .liang .q1{
+    font-size: 0.3rem;
+    color: #343434;
+    position: absolute;
+    top: 0.48rem;
+    left: 3.5rem;
+}
+.cai .liang .q2{
+    font-size: 0.2rem;
+    color: #CBCBCB;
+    position: absolute;
+    top: 0.86rem;
+    left: 3.5rem;
+}
+.cai .liang .q3{
+    font-size: 0.24rem;
+    color: #ff3931;
+    position: absolute;
+    top: 1.3rem;
+    left: 4rem;
+}
+.cai .liang span{
+    font-size: 0.36rem;
+    font-weight: bold;
+    position: absolute;
+    top: -0.1rem;
+    left: -0.5rem;
+}
+.cai .liang .q4{
+    font-size: 0.2rem;
+    color: #CBCBCB;
+    position: absolute;
+    top: 1.8rem;
+    left: 3.5rem;
+}
+.cai .liang a .g{
+    width: 0.8rem;
+    height: 0.76rem;
+    position: absolute;
+    top: 1.66rem;
+    left: 6.34rem;
+}
+.d{
+    width: 6rem;
+    height: 6rem;
+}
+.bottom{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fff;
+    border-top: 0.01rem solid #d7d7d7;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.bottom .xiao{
+    width: 0.9rem;
+    height: 0.98rem;
+    background-color: #fff;
+    text-align: center;
+}
+.bottom .xiao p{
+    font-size: 0.12rem;
+    color: #989898;
+}
+.bottom .xiao .yi{
+    color:#ff5626; 
+}
+.bottom .xiao .icon-home{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-caidan{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #ff5626;
+}
+.bottom .xiao .icon-gouwuche-xianxing{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-wode{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao a{
+    display: block;
+    width: 0.9rem;
+    height: 0.98rem;
+}

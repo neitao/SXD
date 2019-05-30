@@ -1,0 +1,177 @@
+.tou{
+    width: 7.5rem;
+    height: 0.88rem;
+    background: -webkit-linear-gradient(left, #ff3432,#ff7918);
+    background: linear-gradient(left, #ff3432,#ff7918);
+    font-size: 0.36rem;
+    color: #fff;
+    text-align: center;
+    line-height: 0.88rem;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+.gou{
+    width: 7.02rem;
+    height: 5.8rem;
+    background-color: #fff;
+    margin: 0.88rem auto 0 ;
+    box-shadow: 0px 7px 49px 0px rgba(255, 86, 38, 0.09);
+    box-sizing: border-box;
+    padding-top: 0.6rem;
+    padding-left: 1.46rem;	
+    position: relative;
+}
+.gou img{
+    width: 4.08rem;
+    height: 3.6rem;   
+}
+.gou p{
+    font-size: 0.3rem;
+    color: #D7D7D7;
+    position: absolute;
+    right: 2.3rem;
+    bottom: 0.4rem;
+}
+.mei{
+    width: 7.5rem;
+    height: 5.45rem;
+    background-color: #fff;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+.mei .top{
+    width: 7.02rem;
+    height: 1rem;
+    background-color: #fff;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.mei .top img{
+    width: 0.63rem;
+    height: 0.63rem;
+}
+.mei .top p{
+    font-size: 0.36rem;
+    color: #858585;
+    margin-left: 0.2rem;
+}
+.dibu{
+    width: 7.26rem;
+    height: 4.4rem;
+    background-color: #fff;
+    margin-left: 0.24rem;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.dibu .shi{
+    width: 2.6rem;
+    height: 3.08rem;
+    background-color: #fff;
+    border-radius: 0.12rem;
+    position: relative;
+}
+.dibu .shi1{
+    width: 1.62rem;
+    height: 3.08rem;
+    background-color: aqua;
+    border-bottom-left-radius: 0.12rem;
+    border-top-left-radius: 0.12rem;
+}
+.dibu .shi img{
+    width: 2.6rem;
+    height: 3.08rem;
+}
+.dibu .shi1 img{
+    width: 1.62rem;
+    height: 3.08rem;
+}
+.dibu .shi .zi{
+    font-size: 0.3rem;
+    color: #848484;
+}
+.dibu .shi span{
+    font-size: 0.36rem;
+    color: #ff3931;
+}
+.dibu .shi .z{
+    font-size: 0.24rem;
+    color: #ff3931;
+}
+.dibu .shi1 .zi{
+    font-size: 0.3rem;
+    color: #848484;
+}
+.dibu .shi1 span{
+    font-size: 0.36rem;
+    color: #ff3931;
+}
+.dibu .shi1 .z{
+    font-size: 0.24rem;
+    color: #ff3931;
+}
+.dibu .shi .tu{
+    position: absolute;
+    top: 3.2rem;
+    right: 0;
+    width: 1rem;
+    height: 1rem;
+}
+.bottom{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fff;
+    border-top: 0.01rem solid #d7d7d7;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.bottom .xiao{
+    width: 0.9rem;
+    height: 0.98rem;
+    background-color: #fff;
+    text-align: center;
+}
+.bottom .xiao p{
+    font-size: 0.12rem;
+    color: #989898;
+}
+.bottom .xiao .yi{
+    color:#ff5626; 
+}
+.bottom .xiao .icon-home{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-caidan{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-gouwuche-xianxing{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #ff5626;
+}
+.bottom .xiao .icon-wode{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao a{
+    display: block;
+    width: 0.9rem;
+    height: 0.98rem;
+}

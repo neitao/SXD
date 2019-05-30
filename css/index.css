@@ -1,0 +1,355 @@
+.tou{
+    width: 7.5rem;
+    height: 0.88rem;
+    background: -webkit-linear-gradient(left, #ff3432,#ff7918);
+    background: linear-gradient(left, #ff3432,#ff7918);
+    font-size: 0.36rem;
+    color: #fff;
+    text-align: center;
+    line-height: 0.88rem;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+.ding{
+    width: 7.5rem;
+    height: 0.86rem;
+    box-sizing: border-box;
+    padding: 0 0.24rem;
+    display: flex;
+    align-items:center;
+    margin-top: 0.88rem;
+}
+.ding .icon-location{
+    font-size: 0.48rem;
+    color: #ff5626;
+}
+.ding span{
+    font-size: 0.36rem;
+    color: #191919;
+    margin:0 0.08rem 0 0.08rem;
+
+}
+.ding .icon-iconfontyoujiantou{
+    font-size: 0.20rem;
+    color: #191919;
+}
+.sou{
+    width: 7.02rem;
+    height: 0.82rem;
+    background-color: #fff;
+    border-radius: 0.41rem;
+    margin: 0 auto;
+    box-shadow: 0 0 0.1rem 0.05rem #fae4db;
+    display: flex;
+    align-items:center;
+} 
+.sou input{
+    width: 4.5rem;
+    height: 0.75rem;
+    border: 0;
+    margin-left: 0.1rem;
+    color: #999;
+    text-indent: 1em;
+}
+.sou .icon-sousuo{
+    font-size: 0.40rem;
+    color: #999;
+    margin-left: 0.3rem;
+}
+.sou .icon-cuo{
+    font-size: 0.34rem;
+    color: #999;
+    margin-left: 0.1rem;
+}
+.sou span{
+    font-size: 0.36rem;
+    color: #999;
+    margin-left: 0.1rem;
+}
+.lun{
+    width: 7.02rem;
+    height: 3.96rem;
+    background-color: red;
+    margin: 0.3rem auto 0.8rem auto;
+    margin-top: 0.3rem;
+    border-radius: 0.12rem;
+    position: relative;
+}
+.lun img{
+    width: 7.02rem;
+    height: 3.96rem;
+}
+.lun .dian{
+    width: 0.9rem;
+    height: 0.1rem;
+    position: absolute;
+    bottom: 0.2rem;
+    left: 3rem;
+}
+.lun .dian .yuan{
+    width: 0.1rem;
+    height: 0.1rem;
+    border-radius: 50%;
+    background-color: #9c9087;
+    float: left;
+    margin-right: 0.2rem;
+}
+.lun .dian .yuan1{
+    width: 0.28rem;
+    height: 0.1rem;
+    border-radius:0.05rem;
+    margin-right: 0;
+}
+.ling{
+    width: 7.5rem;
+    height: 1.68rem;
+    margin-top: -0.5rem;
+    margin-bottom: 0.3rem;
+}
+.ling .you{
+    width: 7.02rem;
+    height: 1.68rem;
+    margin: 0 auto;
+    border-radius: 0.2rem;
+}
+.ling .you img{
+    width: 7.02rem;
+    height: 1.68rem;
+    box-shadow: 0 0 0.1rem 0.05rem #fae4db;
+}
+.ji{
+    width: 7.50rem;
+    height: 2.98rem;
+}
+.ji .fen{
+    width: 7.02rem;
+    height: 2.98rem;
+    margin: 0 auto;
+}
+.ji .fen .left{
+    width: 3.43rem;
+    height: 2.98rem;
+    background-color: #ff7918;
+    float: left;
+}
+.ji .fen .left img{
+    width: 3.43rem;
+    height: 2.98rem;
+    box-shadow: 0 0 0.1rem 0.05rem #fae4db;
+}
+.ji .fen .right{
+    width:3.43rem;
+    height: 1.41rem;
+    background-color: #191919;
+    float: right;
+    margin-bottom: 0.15rem;
+}
+.ji .fen .right img{
+    width:3.43rem;
+    height: 1.41rem; 
+    box-shadow: 0 0 0.1rem 0.05rem #fae4db;
+}
+.hiu{
+    width: 7.5rem;
+    height: 1.14rem;
+}
+.hiu .shi{
+    width: 7.02rem;
+    height: 1.14rem;
+    margin: 0.2rem auto;
+    background-color: #fff;
+    box-shadow: 0 0 0.1rem 0.05rem #fae4db;
+}
+.hiu .shi a{
+    display: block;
+    width: auto;
+    height: 1.14rem;
+    display: flex;
+    align-items: center;
+}
+.hiu .shi a .icon-youhuijuan{
+    font-size: 0.64rem;
+    color: #dc341e;
+}
+.hiu .shi a span{
+    font-size: 0.3rem;
+    color: #333;
+    margin-left: 0.1rem;
+}
+.wu{
+    width: 7.5rem;
+    height: 2.3rem;
+    background-color: #fff;
+    margin-top: 0.2rem;
+}
+.wu .cai{
+    width: 7.02rem;
+    height: 2.3rem;
+    background-color: #fff;
+    margin: 0 auto;
+    box-shadow: 0 0 0.1rem 0.05rem #fae4db;
+    position: relative;
+}
+.wu .cai .jian{
+    width: 0.42rem;
+    height: 1.18rem;
+    background-color: #ff3931;
+    position: absolute;
+    top:0;
+    right: 0.44rem;
+}
+.wu .cai .jian .te{
+    font-size: 0.24rem;
+    color: #fff;
+    position: absolute;
+    top:0.1rem;
+    left: 0.08rem;
+}
+.wu .cai .shan{
+    border-top: 0.3rem solid transparent;
+    border-left: 0.2rem solid transparent;
+    border-bottom: 0.3rem solid #fff;
+    border-right: 0.2rem solid transparent;
+    position: absolute;
+    left: 0.01rem;
+    bottom: 0;
+}
+.wu .cai img{
+    width: 3.12rem;
+    height: 1.94rem;
+    margin-top: 0.18rem;
+}
+.wu .cai .tang{
+    font-size: 0.26rem;
+    color: #191919;
+    position: absolute;
+    top: 0.3rem;
+    left: 3.4rem;
+}
+.wu .cai .candies{
+    font-size: 0.16rem;
+    color: #999;
+    position: absolute;
+    top: 0.7rem;
+    left: 3.4rem;
+}
+.wu .cai .jia{
+    font-size: 0.22rem;
+    color: #ffc3c1;
+    position: absolute;
+    top: 1rem;
+    left: 3.4rem;
+}
+.wu .cai .jing{
+    font-size: 0.22rem;
+    color: #ff4c45;
+    position: absolute;
+    top: 1.3rem;
+    left: 3.4rem;
+}
+.wu .cai .jing span{
+    font-size: 0.36rem;
+    color:#ff4c45; 
+}
+.wu .cai .shou{
+    font-size: 0.18rem;
+    color: #999;
+    position: absolute;
+    top: 1.7rem;
+    left: 3.4rem;
+}
+.wu .cai .jiu{
+    border-top: 0.4rem solid #ff5824;
+    border-left: 0.4rem solid transparent;
+    border-bottom: 0.4rem solid transparent;
+    border-right: 0.4rem solid #ff5824;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.wu .cai .zi{
+    font-size: 0.18rem;
+    color: #fff;
+    position: absolute;
+    top: 0.1rem;
+    right: 0.1rem;
+}
+.box{
+    width: 7.5rem;
+    height: 0.66rem;
+    margin-top: 0.2rem;
+    margin-bottom: 1.1rem;
+}
+.box .son{
+    width: 7.02rem;
+    height: 0.66rem;
+    background-color: #fff;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box .son .xian{
+    width: 2.26rem;
+    border: 0.01rem solid #fec1c1;
+}
+.box .son span{
+    color: #ff6e68;
+    font-size: 0.18rem;
+}
+.bottom{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fff;
+    border-top: 0.01rem solid #d7d7d7;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.bottom .xiao{
+    width: 0.9rem;
+    height: 0.98rem;
+    background-color: #fff;
+    text-align: center;
+}
+.bottom .xiao p{
+    font-size: 0.12rem;
+    color: #989898;
+}
+.bottom .xiao .yi{
+    color:#ff5626; 
+}
+.bottom .xiao .icon-home{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #ff5626;
+    
+}
+.bottom .xiao .icon-caidan{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-gouwuche-xianxing{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-wode{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao a{
+    display: block;
+    width: 0.9rem;
+    height: 0.98rem;
+}

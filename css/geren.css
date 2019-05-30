@@ -1,0 +1,191 @@
+.tou{
+    width: 7.5rem;
+    height: 0.88rem;
+    background: -webkit-linear-gradient(left, #ff3432,#ff7918);
+    background: linear-gradient(left, #ff3432,#ff7918);
+    font-size: 0.36rem;
+    color: #fff;
+    text-align: center;
+    line-height: 0.88rem;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+.toua{
+    width: 7.5rem;
+    height: 5.4rem;
+    background-color: #fff;
+    margin-top: 0.78rem;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 8px 49px 0px rgba(255, 53, 51, 0.05);
+}
+.toua .tu{
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    top: 0.46rem;
+    left: 2.7rem;
+    z-index: 1;
+}
+.toua img{
+    width: 7.5rem;
+}
+.toua .zhong{
+    width: 7.02rem;
+    height: 3.38rem;
+    background-color: #fff;
+    margin: 0 auto;
+    position: absolute;
+    left: 0.24rem;
+    bottom: 0;
+} 
+.toua .zhong .r1{
+    display: block;
+    font-size: 0.24rem;
+    color: #ff5625;
+    margin-top: 0.1rem;
+    margin-left: 5.8rem;
+}
+.toua .zhong .ke{
+    font-size: 0.36rem;
+    color: #ff482b;
+    margin-left: 2.78rem;
+}
+.toua .zhong .yao{
+    font-size: 0.24rem;
+    color: #BBBBBB;
+    margin-left: 2.46rem;
+}
+.toua .zhong .bu{
+    width: 6.6rem;
+    height: 1.34rem;
+    border-top: 0.01rem solid #EDEDED;
+    margin: 0.8rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+}
+.toua .zhong .bu img{
+    width: 0.6rem;
+    position: absolute;
+    top: 0;
+    left: 1.1rem;
+}
+.toua .zhong .bu .tu{
+    width: 0.6rem;
+    height: 0.6rem;
+    position: absolute;
+    top: 0;
+    left: 3.3rem;
+}
+.toua .zhong .bu .icon-huabanfuben{
+    font-size: 0.6rem;
+    color: #ff5626;
+    margin-left: 0.16rem;
+}
+.toua .zhong .bu .icon-kaishipaisong{
+    font-size: 0.6rem;
+    color: #ff5626;
+}
+.toua .zhong .bu .icon-wancheng{
+    font-size: 0.6rem;
+    color: #DDDDDD;
+    margin-left: 0.1rem;
+}
+.toua .zhong .bu .pai{
+    font-size: 0.24rem;
+    color:#8F8F8F;
+}
+.toua .zhong .bu .pai1{
+    font-size: 0.24rem;
+    color:#DDDDDD;
+}
+.xia{
+    width: 7.5rem;
+    height: 5.5rem;
+    background-color: #fff;
+    margin-top: 0.38rem;
+}
+.xia .wu{
+    width: 7rem;
+    height: 1.1rem;
+    margin: 0 auto;
+    border-bottom: 0.01rem solid #E5E5E5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.xia .wu span{
+    font-size: 0.3rem;
+    color: #737373;
+}
+.xia .wu .zhan{
+    font-size: 0.2rem;
+    color: #737373;
+    margin-top: -0.02rem;
+    margin-left: 4.5rem;
+}
+.xia .wu .fu{
+    font-size: 0.24rem;
+    color: #ff5625;
+}
+.xia .wu .icon-iconfontyoujiantou{
+    font-size: 0.2rem;
+    color: #737373;
+}
+.bottom{
+    width: 7.5rem;
+    height: 0.98rem;
+    background-color: #fff;
+    border-top: 0.01rem solid #d7d7d7;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.bottom .xiao{
+    width: 0.9rem;
+    height: 0.98rem;
+    background-color: #fff;
+    text-align: center;
+}
+.bottom .xiao p{
+    font-size: 0.12rem;
+    color: #989898;
+}
+.bottom .xiao .yi{
+    color:#ff5626; 
+}
+.bottom .xiao .icon-home{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-caidan{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-gouwuche-xianxing{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #989898;
+}
+.bottom .xiao .icon-wode{
+    display: block;
+    margin-top: 0.09rem;
+    font-size: 0.46rem;
+    color: #ff5626;
+}
+.bottom .xiao a{
+    display: block;
+    width: 0.9rem;
+    height: 0.98rem;
+}
