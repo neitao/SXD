@@ -51,6 +51,7 @@
     margin-left: 0.1rem;
     color: #999;
     text-indent: 1em;
+    outline: none;
 }
 .sou .icon-sousuo{
     font-size: 0.40rem;

@@ -28,7 +28,7 @@
 .top .icon-fanhui{
     width: 0.23rem;
     height: 0.39rem;
-    font-size: 0.23rem;
+    font-size: 0.35rem;
     color: #ffffff;
     float: left;
 }
@@ -76,10 +76,10 @@
 }
 .dingdan1 .clatop{
     width: 6.9rem;
-    height: 0.34rem;
+    height: 0.54rem;
     margin: 0.2rem auto 0.2rem;
     padding: 0 0.1rem 0 0.1rem;
-    border-bottom: #9999 solid 0.01rem;
+    border-bottom: #f5f5f5 solid 0.01rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
